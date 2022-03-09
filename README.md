@@ -1,4 +1,4 @@
-# CursoWeb
+# 🌐 Curso Web Moderno
 
 ## Histórico de aprendizado e resolução de exercícios do Curso Web Completo
 
