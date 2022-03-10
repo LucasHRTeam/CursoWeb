@@ -53,5 +53,11 @@ Array.forEach((item, i) => {});
 Array.pop();
 // remove o último elemento do array.
 
+
 Array.shift();
 // remove o primeiro elemento do array.
+
+
+Array.slice(number);
+// retorna uma parte do array, a partir do índice 
+// especificado como "number".
