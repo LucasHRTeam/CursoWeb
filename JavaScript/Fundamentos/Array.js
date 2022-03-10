@@ -33,3 +33,12 @@ Array.splice(um, dois, três);
 // type === "number". O "dois" é a quantidade de índices
 // que serão apagados a partir do "um".
 
+
+Array.reverse();
+// este inverte os índices de todos os elementos.
+
+
+Array.filter((i) => condicional);
+// este faz uma filtragem no array usando
+// a condicional como parâmetro de decisão.
+// retorna um novo array.
