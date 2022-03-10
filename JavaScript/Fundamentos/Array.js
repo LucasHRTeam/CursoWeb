@@ -31,7 +31,8 @@ Array.splice(um, dois, três);
 // esta apaga algum elemento do array, especificado
 // pelo "um", que é o índice dele e tem o
 // type === "number". O "dois" é a quantidade de índices
-// que serão apagados a partir do "um".
+// que serão apagados a partir do "um". O "três" é o
+// novo elemento que será adicionado no índice "dois".
 
 
 Array.reverse();
@@ -42,3 +43,8 @@ Array.filter((i) => condicional);
 // este faz uma filtragem no array usando
 // a condicional como parâmetro de decisão.
 // retorna um novo array.
+
+
+Array.forEach((item, i) => {});
+// este percorre todos os índices do array.
+// muito usado em validações e laços.
