@@ -52,3 +52,6 @@ Array.forEach((item, i) => {});
 
 Array.pop();
 // remove o último elemento do array.
+
+Array.shift();
+// remove o primeiro elemento do array.
