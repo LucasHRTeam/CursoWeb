@@ -48,3 +48,7 @@ Array.filter((i) => condicional);
 Array.forEach((item, i) => {});
 // este percorre todos os índices do array.
 // muito usado em validações e laços.
+
+
+Array.pop();
+// remove o último elemento do array.
