@@ -61,3 +61,8 @@ Array.shift();
 Array.slice(number);
 // retorna uma parte do array, a partir do índice 
 // especificado como "number".
+
+
+Array.map(callback);
+// percorre todos os indices do array, mas 
+// aplica uma transformação em todos os items
