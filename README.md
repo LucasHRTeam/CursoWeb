@@ -6,6 +6,7 @@ A única função deste repositório é criar uma linha do tempo do aprendizado 
 As matérias estão divididas em cada pasta, cada uma com os seus exercícios.
 
 Professor: Leonardo Moura Leitão
+
 Instituição: Coder Cursos Brasil
 
 Plataforma: Udemy
